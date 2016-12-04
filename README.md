@@ -2,4 +2,4 @@
 
 Absolute basic app for beginners to submit form data into MongoDB via Node.js
 
-![screenshot](n.png)
+![screenshot](screenshot.png)
